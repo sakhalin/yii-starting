@@ -1,16 +1,14 @@
 {
-    "name": "thesakhalin/yii2-app-advanced",
-    "description": "Yii 2 Advanced Application Template",
+    "name": "sakhalin/yii-starting",
+    "description": "Yii Advanced Application Template",
     "keywords": ["yii", "framework", "advanced", "application template"],
-    "homepage": "http://www.yiiframework.com/",
+    "homepage": "http://thesakhalin.com/",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/sakhalin/yii-starting/issues?state=open",
+        "wiki": "https://github.com/sakhalin/yii-starting/wiki",
+        "source": "https://github.com/sakhalin/yii-starting"
     },
 
     "require": {

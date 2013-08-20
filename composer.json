@@ -10,11 +10,11 @@
         "wiki": "https://github.com/sakhalin/yii-starting/wiki",
         "source": "https://github.com/sakhalin/yii-starting"
     },
-
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
         "yiisoft/yii": "dev-master",
-        "2amigos/yiiwheels": "dev-master",
-        "2amigos/yiistrap": "dev-master"
+        "2amigos/yiistrap": "dev-master",
+        "2amigos/yiiwheels": "dev-master"
     }
 }

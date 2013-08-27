@@ -3,7 +3,7 @@ Install
 
 Git clone
 ---------
-    git clone https://github.com/thesakhalin/yii-started
+    git clone git@github.com:sakhalin/yii-starting.git
 
 Installation#
 ===================
@@ -13,9 +13,7 @@ To install Composer, you just need to download the composer.phar executable.
     $ curl -sS https://getcomposer.org/installer | php
 For the details, see the Introduction chapter.
 
-To check if Composer is working, just run the PHAR through php:
 
-    $ php composer.phar
 This should give you a list of available commands.
 
     php composer.phar install
